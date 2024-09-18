@@ -1,6 +1,5 @@
 # 💫 About Me:
-Learning Artificial Intelligence from scratch
-
+Passionate AI & Machine Learning Student | Specializing in Computer Vision & Deep Learning | Remote-Ready
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-shetty-43a6151b1/) 
