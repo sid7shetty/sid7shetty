@@ -33,10 +33,7 @@
 #### 1. 🔮 **NLP: Chatbot for Customer Support**
 - 📝 **Description**: Developed a chatbot using **NLP** techniques to automate customer support queries. The chatbot can understand natural language input, identify user intent, and provide relevant responses or escalate to a human agent when necessary.
 - 🔧 **Technologies**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black)   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 - 🎯 **Key Contributions**:
   - Implemented intent classification and NER using pre-trained transformer models.
   - Integrated the chatbot into a web application using Flask.
