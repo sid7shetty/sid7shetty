@@ -44,10 +44,7 @@
 #### 2. 🚗 **Computer Vision: Object Detection for Autonomous Vehicles**
 - 📝 **Description**: Built an object detection model to identify and classify objects (pedestrians, vehicles, traffic signs) for autonomous vehicles.
 - 🔧 **Technologies**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![YOLOv5](https://img.shields.io/badge/YOLOv5-0f0?style=flat)  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)   ![YOLOv5](https://img.shields.io/badge/YOLOv5-0f0?style=flat)  
 - 🎯 **Key Contributions**:
   - Trained the model using the YOLOv5 architecture for real-time object detection.
   - Optimized the model's performance, achieving a mean Average Precision (mAP) of 85% on the COCO dataset.
@@ -58,10 +55,7 @@
 #### 3. 🎮 **Reinforcement Learning: AI Agent for Game Playing**
 - 📝 **Description**: Designed and trained an AI agent using **reinforcement learning** to play and master an Atari game (e.g., Pong, Breakout).
 - 🔧 **Technologies**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-  ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-008080?style=flat&logo=openai)  
-  ![Keras-RL](https://img.shields.io/badge/Keras--RL-D00000?style=flat&logo=keras&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)   ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-008080?style=flat&logo=openai)   ![Keras-RL](https://img.shields.io/badge/Keras--RL-D00000?style=flat&logo=keras&logoColor=white)  
 - 🎯 **Key Contributions**:
   - Built the reinforcement learning environment using OpenAI Gym to simulate game scenarios.
   - Trained the AI agent using the DQN algorithm, which improved performance after thousands of iterations.
