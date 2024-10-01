@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Master’s student** in Artificial Intelligence at Brandenburg University of Technology, Germany.
-- 💼 Experienced in **Machine Learning**, **AI**, and **LLMs**.
-- 🔭 Currently working on **Explainable ML** and **Infrared Image Processing**.
-- 🌱 Passionate about **Generative AI**, **Data Science**, and **Sustainable Technologies**.
+- 💼 Experienced in **Machine Learning**, **AI**, and **Data Science**.
+- 🔭 Currently working on **Explainable ML** and ** Image Processing**.
+- 🌱 Passionate about **Generative AI**, **LLMs**, and **NLP**.
 
 ---
 
