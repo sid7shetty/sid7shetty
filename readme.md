@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Master’s student** in Artificial Intelligence at Brandenburg University of Technology.
-- 💼 Experienced in **Machine Learning**, **AI**, and **Energy Efficiency Modeling**.
-- 🔭 Currently working on **Heat Transfer Simulation** using **CFD** and **Infrared Image Processing**.
+- 🎓 **Master’s student** in Artificial Intelligence at Brandenburg University of Technology, Germany.
+- 💼 Experienced in **Machine Learning**, **AI**, and **LLMs**.
+- 🔭 Currently working on **Explainable ML** and **Infrared Image Processing**.
 - 🌱 Passionate about **Generative AI**, **Data Science**, and **Sustainable Technologies**.
 
 ---
@@ -36,17 +36,45 @@
 
 ### 🚀 **Projects**:
 
-#### 🔥 **Heat Transfer Simulation in Buildings**
-- 🏠 Developed a machine learning model to simulate wind flow fields around buildings and assess their impact on heat transfer coefficients.  
-- 🔧 **Technologies**: Python, TensorFlow, OpenCV, CFD Simulations.
+#### 1. 🔮 **NLP: Chatbot for Customer Support**
+- 📝 **Description**: Developed a chatbot using **NLP** techniques to automate customer support queries. The chatbot can understand natural language input, identify user intent, and provide relevant responses or escalate to a human agent when necessary.
+- 🔧 **Technologies**:  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black)  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+- 🎯 **Key Contributions**:
+  - Implemented intent classification and NER using pre-trained transformer models.
+  - Integrated the chatbot into a web application using Flask.
+  - Achieved 90% accuracy in intent detection, reducing customer support response time by 40%.
 
-#### ☀️ **Solar Energy Optimization Using Machine Learning**
-- 🌍 Built a machine learning model to optimize solar panel placement for maximum energy output.  
-- 🔧 **Technologies**: Python, GIS Tools, MATLAB, TensorFlow.
+---
 
-#### 🌡️ **Infrared Image Processing for Building Insulation Detection**
-- 🔬 Utilized infrared data to identify heat loss areas in building structures.  
-- 🔧 **Technologies**: Python, OpenCV, Infrared Cameras.
+#### 2. 🚗 **Computer Vision: Object Detection for Autonomous Vehicles**
+- 📝 **Description**: Built an object detection model to identify and classify objects (pedestrians, vehicles, traffic signs) for autonomous vehicles.
+- 🔧 **Technologies**:  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+  ![YOLOv5](https://img.shields.io/badge/YOLOv5-0f0?style=flat)  
+- 🎯 **Key Contributions**:
+  - Trained the model using the YOLOv5 architecture for real-time object detection.
+  - Optimized the model's performance, achieving a mean Average Precision (mAP) of 85% on the COCO dataset.
+  - Deployed the model on embedded systems for real-time inference in low-latency environments.
+
+---
+
+#### 3. 🎮 **Reinforcement Learning: AI Agent for Game Playing**
+- 📝 **Description**: Designed and trained an AI agent using **reinforcement learning** to play and master an Atari game (e.g., Pong, Breakout).
+- 🔧 **Technologies**:  
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+  ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-008080?style=flat&logo=openai)  
+  ![Keras-RL](https://img.shields.io/badge/Keras--RL-D00000?style=flat&logo=keras&logoColor=white)  
+- 🎯 **Key Contributions**:
+  - Built the reinforcement learning environment using OpenAI Gym to simulate game scenarios.
+  - Trained the AI agent using the DQN algorithm, which improved performance after thousands of iterations.
+  - The AI agent achieved human-level performance, reaching a win rate of 95% in the selected game.
 
 ---
 
@@ -57,13 +85,7 @@
 
 ---
 
-### 📊 **GitHub Stats**:
 
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid7shetty&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sid7shetty&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 **Get in Touch**:
 
