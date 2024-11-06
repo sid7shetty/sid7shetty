@@ -47,6 +47,7 @@ Supported real-time chord recognition.
 Used the "IDMT-SMT-GUITAR_V2" Dataset from the Fraunhofer website.
 
 🩺 Explainable ML for BP
+
 2. 🧠 Explainable ML for BP
 📝 Description: In this project, we use cardiovascular data to predict blood pressure. The project involves data preprocessing, model training, and feature importance analysis to make the machine learning model's predictions explainable.
 
