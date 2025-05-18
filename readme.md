@@ -1,4 +1,6 @@
-# 👋 Hi, I'm **Siddharth Shetty**!  
+# 👋 Hi, I'm **Siddharth Shetty**!  🌐 [Portfolio Website](https://sid7shetty.github.io/)
+
+
 **AI Developer | Generative AI Enthusiast | LLM Practitioner**
 
 [![GitHub followers](https://img.shields.io/github/followers/sid7shetty?label=Follow&style=social)](https://github.com/sid7shetty)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sid7shetty/)   [![Gmail](https://img.shields.io/badge/Email-siddharth.shetty109@gmail.com-red?style=flat&logo=gmail)](mailto:siddharth.shetty109@gmail.com)
