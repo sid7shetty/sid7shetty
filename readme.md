@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Siddharth Shetty**!  🌐 [Portfolio Website](https://sid7shetty.github.io/)
+# 👋 Hi, I'm [**Siddharth Shetty**!](https://sid7shetty.github.io/)
 
 
 **AI Developer | Generative AI Enthusiast | LLM Practitioner**
