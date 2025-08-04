@@ -6,8 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sid7shetty?label=Follow&style=social)](https://github.com/sid7shetty)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sid7shetty/)   [![Gmail](https://img.shields.io/badge/Email-siddharth.shetty109@gmail.com-red?style=flat&logo=gmail)](mailto:siddharth.shetty109@gmail.com)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sid7shetty&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid7shetty&layout=compact)
+
 
 ### 👨‍💻 About Me
 
