@@ -95,15 +95,6 @@ I build practical AI and data applications using **Python, Machine Learning, Str
 
 
 
-## 📊 GitHub Stats
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sid7shetty&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sid7shetty&layout=compact&theme=tokyonight)
-
-
----
-
 ## 📫 Connect With Me
 
 * Portfolio: [sid7shetty.github.io](https://sid7shetty.github.io/)
